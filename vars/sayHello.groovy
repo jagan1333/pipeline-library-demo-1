@@ -5,6 +5,6 @@ def call(String name = 'human') {
 }
 
 def call(String name = 'Mobile') {
-  echo "Cell:, ${name}."
+  echo "Cell, ${name}."
 }
 
